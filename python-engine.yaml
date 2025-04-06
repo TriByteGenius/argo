@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: python-engine
-          image: andyg2025/python-engine:b68a8f8
+          image: andyg2025/python-engine:526a989
           ports:
             - containerPort: 8000
           env:

@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: andyg2025/backend:b68a8f8
+          image: andyg2025/backend:526a989
           ports:
             - containerPort: 8080
           env:
